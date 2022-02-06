@@ -20,7 +20,8 @@
   "homepage": "https://github.com/marissann11/u-develop-it#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "jest": "^27.5.0"
